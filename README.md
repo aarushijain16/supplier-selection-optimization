@@ -66,16 +66,16 @@ While the full code is not shared, pivotal steps and methodologies are conceptua
 Below are some key visualisations illustrating the project's data transformations and insights:
 
 * **Initial Data Structures**:
-  * **Figure 1**: Early Exploration on cost_data data sets []
-  * **Figure 2**: Early Exploration on supplier_data data sets []
-  * **Figure 3**: Early Exploration on task_data data sets []
+  * **Figure 1**: Early Exploration on cost_data data sets [ https://github.com/aarushijain16/supplier-selection-optimization/blob/main/1.png ]
+  * **Figure 2**: Early Exploration on supplier_data data sets [ https://github.com/aarushijain16/supplier-selection-optimization/blob/main/2.png ]
+  * **Figure 3**: Early Exploration on task_data data sets [ https://github.com/aarushijain16/supplier-selection-optimization/blob/main/3.png ]
 * **Missing Value Confirmation**:
-  * **Figure 4**: No Missing Values in the Data sets []
+  * **Figure 4**: No Missing Values in the Data sets [ https://github.com/aarushijain16/supplier-selection-optimization/blob/main/4.png ]
 * **Date Format Standardisation**:
-  * **Figure 5**: Changing Date Format in Task ID []
+  * **Figure 5**: Changing Date Format in Task ID [ https://github.com/aarushijain16/supplier-selection-optimization/blob/main/5.png ]
 * **Feature Scaling Impact**:
-  * **Figure 6**: Normalising Features Range from -1 to 1 []
-  * **Figure 7**: Normalised Task Features []
-  * **Figure 8**: Normalised Supplier Features []
+  * **Figure 6**: Normalising Features Range from -1 to 1 [ https://github.com/aarushijain16/supplier-selection-optimization/blob/main/6.png ]
+  * **Figure 7**: Normalised Task Features [ https://github.com/aarushijain16/supplier-selection-optimization/blob/main/7.png ]
+  * **Figure 8**: Normalised Supplier Features [ https://github.com/aarushijain16/supplier-selection-optimization/blob/main/8.png ]
 * **Correlation Matrix Heatmap**:
-  * **Figure 9**: Correlation Chart []
+  * **Figure 9**: Correlation Chart [ https://github.com/aarushijain16/supplier-selection-optimization/blob/main/9.png ]
