@@ -57,7 +57,7 @@ The meticulous data preparaion and feature engineering pipeline successfully cul
   * 'matplotlib' and 'seaborn': Used for creating insightful visualisations, particularly the correlation matrix to guide feature selection.
 
 ## Confidentiality Note and Project Deliverables:
-Due to the confidential nature of the dataset provided by the university and the detailes analysis performed, *neither the raw data nor the complete project code can be shared publicly** in this repository. This README.md serves as a comprehensive and detailed overview of the problem, the robust methodology employed, and the significant impact derived from the project. 
+Due to the confidential nature of the dataset provided by the university and the detailes analysis performed, **neither the raw data nor the complete project code can be shared publicly** in this repository. This README.md serves as a comprehensive and detailed overview of the problem, the robust methodology employed, and the significant impact derived from the project. 
 
 While the full code is not shared, pivotal steps and methodologies are conceptually explained and can be illustrated with key data snapshots withing the original technical report **(available on request)**.
 
