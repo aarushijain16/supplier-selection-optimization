@@ -14,7 +14,7 @@ The analysis was conducted using a proprietary dataset provided by the universit
 
 The dataset comprised three distinct components:
 * **cost_data**: 7680 records detailing the cost of a task performed by a specific supplier, including 'Task ID', 'Supplier ID', and 'Cost'.
-* **supplier_data': Information for 64 unique suppliers, each defined by 18 'Supplier Features (SF).
+* **supplier_data**: Information for 64 unique suppliers, each defined by 18 'Supplier Features (SF).
 * **task_data**: Details for 130 unique tasks, each initially characterised by 116 'Task Features (TF)'.
 
 ## Methodology:
